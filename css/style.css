@@ -8,6 +8,17 @@
 }
 /* End Variables */
 
+/*  Scroller */
+.scroller{
+    position: fixed;
+    top: 0;
+    width: 0px;
+    height: 5px;
+    z-index: 99999;
+    background-color: #10cab7;
+}
+/* End Scroller */
+
 /* Start special Component */
 .special-heading {
     color: #ebeced;
